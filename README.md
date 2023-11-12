@@ -1,4 +1,4 @@
-# covid19
+# Covid19
 
 A new Flutter project.
 
